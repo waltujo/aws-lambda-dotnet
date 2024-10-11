@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Udemy.Course.SQS-Trigger", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Udemy.Course.SNS-Trigger", "Udemy.Course.SNS-Trigger\Udemy.Course.SNS-Trigger.csproj", "{3DE77B03-52D4-45DB-8D6D-2439A01044FE}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Udemy.Course.LifeTimeSample", "Udemy.Course.LifeTimeSample\Udemy.Course.LifeTimeSample.csproj", "{F29CE76C-4C5C-4AB8-AE91-1E940F2C75B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{3DE77B03-52D4-45DB-8D6D-2439A01044FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DE77B03-52D4-45DB-8D6D-2439A01044FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DE77B03-52D4-45DB-8D6D-2439A01044FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F29CE76C-4C5C-4AB8-AE91-1E940F2C75B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F29CE76C-4C5C-4AB8-AE91-1E940F2C75B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F29CE76C-4C5C-4AB8-AE91-1E940F2C75B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F29CE76C-4C5C-4AB8-AE91-1E940F2C75B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

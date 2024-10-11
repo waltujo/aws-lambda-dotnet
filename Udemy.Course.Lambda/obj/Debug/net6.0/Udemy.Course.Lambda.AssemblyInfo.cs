@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Udemy.Course.Lambda")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68b2678d8ebb62b092b89b4bb45876074ac5810d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b24b5192e9048c06cb09f54725b64289ee7fed17")]
 [assembly: System.Reflection.AssemblyProductAttribute("Udemy.Course.Lambda")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Udemy.Course.Lambda")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
